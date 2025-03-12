@@ -32,5 +32,5 @@
 Проверка валидности игрового процесса (например, соответствие карт правилам или очередности ходов).<br>
 
 ## **Class diagram** 
-![Class diagram][image](https://github.com/user-attachments/assets/c19f4cf9-0c95-4ad4-a206-ab5f758c80af)!
+![Class diagram](https://github.com/user-attachments/assets/c19f4cf9-0c95-4ad4-a206-ab5f758c80af)
 
