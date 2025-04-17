@@ -1,0 +1,10 @@
+﻿  AllTests.cpp
+  Card.cpp
+  CardGame.cpp
+  Deck.cpp
+  Game.cpp
+  GameRule.cpp
+  Player.cpp
+  RuleParser.cpp
+  Создание кода...
+  CourseProject.vcxproj -> D:\OOP\CourseProject\CourseProject\x64\Debug\CardGame.exe
